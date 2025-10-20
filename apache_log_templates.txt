@@ -1,0 +1,10 @@
+Here are the generalized log templates for the given log lines:
+
+EventId: E1
+EventTemplate: '[<*>] [notice] jk2_init() Found child <*> in scoreboard slot <*>'
+
+EventId: E2
+EventTemplate: '[<*>] [notice] workerEnv.init() ok <*>'
+
+EventId: E3
+EventTemplate: '[<*>] [error] mod_jk child workerEnv in error state <*>'
